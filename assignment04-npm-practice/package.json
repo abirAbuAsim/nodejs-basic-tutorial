@@ -1,0 +1,14 @@
+{
+  "name": "assignment04-npm-practice",
+  "version": "1.0.0",
+  "description": "An Assignment to understand and practice using NPM packages",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "npm"
+  ],
+  "author": "Abir Khan",
+  "license": "ISC"
+}
